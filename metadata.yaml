@@ -1,5 +1,5 @@
 _repo: C-sar-or-Nothing_8444
-_version: 0.0.1
+_version: 0.1.0
 alternative_title:
 - Caesar or Nothing
 - César ó nada. English
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1947
     gutenberg_agent_id: '2753'
     url: http://www.gutenberg.org/2009/agents/2753
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baroja, Pío
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - http://es.wikipedia.org/wiki/Pío_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8444#C-sar-or-Nothing
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
